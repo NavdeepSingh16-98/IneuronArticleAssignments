@@ -13,7 +13,7 @@ These articles were part of the assignment given by ineuron as a part of fsjs bo
 - CSS Grid - [link](https://navdeep167.hashnode.dev/css-grid-layout)
 - Media Query - [link](https://navdeep167.hashnode.dev/css-media-queries)
 - JavaScript Array and it’s methods - [link](https://navdeep167.hashnode.dev/arrays-in-javascript-a-quick-walkthrough)
-- JavaScript Object and it’s method - - [link](https://navdeep167.hashnode.dev/objects-in-javascript-and-its-methods)
-- JavaScript Functions - - [link](https://navdeep167.hashnode.dev/javascript-functions)
-- Flow of code execution in JavaScript - - [link](https://navdeep167.hashnode.dev/javascript-code-execution)
+- JavaScript Object and it’s method  - [link](https://navdeep167.hashnode.dev/objects-in-javascript-and-its-methods)
+- JavaScript Functions  - [link](https://navdeep167.hashnode.dev/javascript-functions)
+- Flow of code execution in JavaScript  - [link](https://navdeep167.hashnode.dev/javascript-code-execution)
 
